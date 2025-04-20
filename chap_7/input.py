@@ -1,4 +1,4 @@
-print('Enter your username: ',end='choop')
+print('Enter your name: ',end='')
 
 num = input()
 
